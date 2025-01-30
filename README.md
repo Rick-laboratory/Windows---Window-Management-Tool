@@ -1,2 +1,2 @@
-# Windows---Window-Arrangement-Helper
-Windows - Window Arrangement Helper
+# Windows---Window Management Tool
+Window Arrangement Helper
